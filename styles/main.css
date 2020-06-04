@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+}
+#flickr-photos {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+  max-height: 353px;
+}
